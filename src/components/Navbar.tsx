@@ -84,6 +84,14 @@ export default function Navbar() {
           >
             GitHub
           </a>
+          <a
+            href={SITE_LINKS.resume}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-gray-500 hover:text-[#1A1A1A] transition-colors"
+          >
+            Resume
+          </a>
         </div>
 
         <Magnetic strength={0.25}>

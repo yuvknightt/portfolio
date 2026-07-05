@@ -9,6 +9,7 @@ export const SITE_LINKS = {
   github: "https://github.com/yuvknightt",
   leetcode: "https://leetcode.com/u/decoder_22/",
   hackerrank: "https://www.hackerrank.com/profile/decoder_22",
+  resume: "/resume.pdf",
 };
 
 export interface MetricItem {

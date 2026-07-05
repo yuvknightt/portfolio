@@ -43,6 +43,9 @@ export default function Home() {
             </p>
 
             <div className="flex items-center gap-6 text-sm font-medium text-gray-500">
+              <a href={SITE_LINKS.resume} target="_blank" rel="noopener noreferrer" className="hover:text-[#1A1A1A] transition-colors">
+                Resume
+              </a>
               <a href={SITE_LINKS.github} target="_blank" rel="noopener noreferrer" className="hover:text-[#1A1A1A] transition-colors">
                 GitHub
               </a>
